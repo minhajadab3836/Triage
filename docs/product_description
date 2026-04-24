@@ -1,0 +1,6 @@
+# Summary
+
+We are building a critical emergency response system in a very small form factor that will attach to a helmet. It will be connected to a mobile phone in the drivers pocket. the device analyzes several parameters using multiple sensors.
+
+what it does is:
+when the accident happens, it analyses 2 things - severity of the accident to the physical condition of the driver and secondly to the mental state of the person. it compiles a score using these parameters out of hundred and then sends those to the nearest police station and hospital. It will also send blood group and medical history of the patient to the nearest hospital. this device will allow medical professionals to instantly understand if a person got trauma and act in the golden hour time to heal trauma which is 1 hr and provide medical assistance as soon as possible.
